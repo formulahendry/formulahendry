@@ -8,7 +8,9 @@ I am Jun Han, the author of [《Visual Studio Code 权威指南》(Visual Studio
 - 👯 I’m looking to collaborate on VS Code Chinese Community
 - 📫 How to reach me: [知乎](https://www.zhihu.com/people/formulahendry)
 
+想要了解更多，欢迎关注我的公众号“HJ说”：
 
+![qr](https://s2.ax1x.com/2019/05/16/E7vSSJ.jpg)
 
 <!--
 **formulahendry/formulahendry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
